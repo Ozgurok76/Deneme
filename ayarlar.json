@@ -1,0 +1,12 @@
+{
+    "prefix": "B!",
+    "token": "Discord Developer dan bot tokeni alınıcak",
+    "adminrol": "Yetkili Admin Rol İd si ",
+    "kurucu": "Sunucu Sahibi İd si",
+    "basvurkategori": "Sunucuda Bulunan Başvuru Katagorsi İd ",
+    "onayred": "Onay veya red gelicek log kanalı ",
+    "yetkililog": "Logları Göreceginiz Kalan Onay Red İle Oynı Odayı Paylaşa bilir",
+    "everyoneid": "Everyone rol id ",
+    "yetkilirolid": "Yetkili Alım İle Görevli Olacak Rolün İd si ",
+    "sunucuid": "Sunucu İd Si"
+}

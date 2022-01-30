@@ -1,1 +1,2 @@
-# Deneme
+# başvuru-botu
+Başvuru Sistemi botu
